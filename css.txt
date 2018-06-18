@@ -1,0 +1,30 @@
+
+
+CSS?
+
+CSS stands for Cascading Style Sheets
+Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs
+
+
+Advantages of CSS
+	CSS saves time
+	Pages load faster
+	Global web standards
+	Offline Browsing
+	Easy maintenance
+
+CSS was invented by Håkon Wium Lie on October 10, 1994 and maintained through a group of people within the W3C called the CSS Working Group
+
+
+
+CSS3 Modules
+
+Selectors
+Box Model
+Backgrounds and Borders
+Image Values and Replaced Content
+Text Effects
+2D/3D Transformations
+Animations
+Multiple Column Layout
+User Interface	

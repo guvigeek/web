@@ -1,0 +1,28 @@
+001 BootStrap Getting Started Hello World
+https://www.youtube.com/watch?v=0W_W_yDuDp
+
+002 BootStrap NavBar Float
+https://www.youtube.com/watch?v=maTAOa7kpMU
+
+003 BootStrap Buttons and Jombotron
+https://www.youtube.com/watch?v=mTotY4csfMM
+
+
+004 BootStrap Grid System
+https://www.youtube.com/watch?v=g0OwNi6Jlgg
+
+005 BootStrap Alerts
+https://www.youtube.com/watch?v=F-cKv9TRxyo
+
+006 BootStrap Glyphicons
+https://www.youtube.com/watch?v=d55N7EIkEns
+
+007 BootStrap Thumbnails
+https://www.youtube.com/watch?v=TNimUsPOL-M
+
+008 BootStrap Google Fonts
+https://www.youtube.com/watch?v=Rm6hLPgOdIQ
+
+009 BootStrap Forms and Form Groups
+https://www.youtube.com/watch?v=CzMt9Bd5SF8
+
